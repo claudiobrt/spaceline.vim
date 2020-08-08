@@ -4,7 +4,7 @@
 " URL: https://github.com/taigacute/spaceline.vim
 " License: MIT License
 " =============================================================================
-function! spaceline#colorscheme#space#space()
+function! spaceline#colorscheme#mach2#mach2()
   let s:slc={}
   let s:slc.yellow = ['e5c07b', 214]
   let s:slc.navy = ['242B38', 237]
